@@ -876,10 +876,10 @@
             "delirium_mirror": null
         },
         "boss": {
-            "not_spawned": null,
-            "rushable": null,
-            "phases": null,
-            "soft_phases": null
+            "not_spawned": false,
+            "rushable": false,
+            "phases": true,
+            "soft_phases": false
         }
     },
     {
